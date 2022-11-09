@@ -1,0 +1,1 @@
+# azure-coding-guidelines
